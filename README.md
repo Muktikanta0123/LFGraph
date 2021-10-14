@@ -3,6 +3,7 @@ This repository contains the implementation of Lock-Free Concurrent Graph Data S
 
 The subdirectory: */BST-BST-LFGraph* 
 	-Directed Graph implemented as composition of V{Lock-free BST} + E{Lock-free BST}
+	
 The subdirectory: */List-BST-LFGraph* 
 	-Directed Graph implemented as composition of V{Lock-free List} + E{Lock-free BST}
 	
